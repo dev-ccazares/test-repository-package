@@ -1,0 +1,28 @@
+{
+  "name": "@ccazares/package-estadistica-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ccazares/package-estadistica-js.git"
+  },
+  "keywords": [],
+  "author": "Luis Beltrán",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/ccazares/package-estadistica-js/issues"
+  },
+  "homepage": "https://github.com/ccazares/package-estadistica-js#readme",
+  "description": "Funciones estadísticas y generación de gráficas con Node.js",
+  "dependencies": {
+    "canvas": "^3.1.0",
+    "chart.js": "^4.4.9",
+    "chartjs-node-canvas": "^5.0.0"
+  }
+}
