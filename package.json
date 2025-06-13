@@ -1,5 +1,5 @@
 {
-  "name": "@ccazares/package-estadistica-js",
+  "name": "@ccazares/test-repository-package",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ccazares/package-estadistica-js.git"
+    "url": "https://github.com/ccazares/test-repository-package.git"
   },
   "keywords": [],
   "author": "Cristian Cazares",
@@ -16,9 +16,9 @@
     "registry": "https://npm.pkg.github.com/"
   },
   "bugs": {
-    "url": "https://github.com/ccazares/package-estadistica-js/issues"
+    "url": "https://github.com/ccazares/test-repository-package/issues"
   },
-  "homepage": "https://github.com/ccazares/package-estadistica-js#readme",
+  "homepage": "https://github.com/ccazares/test-repository-package#readme",
   "description": "Funciones estadísticas y generación de gráficas con Node.js",
   "dependencies": {
     "canvas": "^3.1.0",
